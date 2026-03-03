@@ -1,0 +1,25 @@
+body { 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    background-color: #f0f4f0; 
+}
+
+.text-primary { color: #2d5a27 !important; }
+.btn-primary { background-color: #2d5a27; border: none; }
+.btn-primary:hover { background-color: #1e3d1a; }
+
+.table-dark { background-color: #2d5a27; border-color: #2d5a27; }
+.table-hover tbody tr:hover { background-color: #e8f5e9; }
+
+.status-badge { 
+    padding: 6px 12px; 
+    border-radius: 50px; 
+    font-size: 0.8rem; 
+    font-weight: 600; 
+    display: inline-block;
+}
+.bg-normal { background-color: #c8e6c9; color: #2e7d32; } 
+.bg-restock { background-color: #ffcdd2; color: #c62828; } 
+
+.low-stock-row { background-color: #fff9f9 !important; }
+
+.swal2-input { border-radius: 8px; }
